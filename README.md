@@ -1,1 +1,2 @@
 # QR_Code_Generator
+I created a QR Code Generator using Python to easily convert text, URLs, or other data into scannable QR codes. The project uses the [qrcode] library, which makes it simple to generate and save QR codes as image files. It’s a small but practical tool that can be used for sharing links, contact info, or Wi-Fi credentials quickly. This project helped me understand how external libraries work in Python and how to handle basic user input and file generation.
